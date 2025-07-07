@@ -45,7 +45,7 @@ A Django-based web application for managing different user roles in a university
 
 ## 📁 Project Structure
 
-```
+
 
 LoginPro/
 ├── LoginApp/
